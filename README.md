@@ -1,7 +1,5 @@
-# React-SPA
-A simple React single page application.
-
-openweathermap.org is used to display temprature of the cities that users search for.
+# React-Weather-SPA
+A weather reporting React single page application that consumes the openweathermap.org web API and displays temprature of the cities that users search for.
 
 
 HOW TO SET UP YOUR ENVIRONMENT TO SEE THE APP IN ACTION:
@@ -17,6 +15,3 @@ HOW TO SET UP YOUR ENVIRONMENT TO SEE THE APP IN ACTION:
       
 3. Run: node server.js
 4. In your browser type: localhost:3000
-
-
-This repo is not supposed to be used in production environments, or any commercial/non-commercial projects.
